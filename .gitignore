@@ -1,0 +1,13 @@
+﻿################################################################################
+# 이 .gitignore 파일은 Microsoft(R) Visual Studio에서 자동으로 만들어졌습니다.
+################################################################################
+
+/VideoEncoding/.vs/VideoEncoding
+/VideoEncoding/CreateThumbnail/bin/Debug
+/VideoEncoding/CreateThumbnail/obj
+/VideoEncoding/HowtoUse_MedioInfoDll/bin
+/VideoEncoding/HowtoUse_MedioInfoDll/obj
+/VideoEncoding/MP4VideoEncoding/bin
+/VideoEncoding/MP4VideoEncoding/obj
+/VideoEncoding/VideoEncoding_console/bin/Debug
+/VideoEncoding/VideoEncoding_console/obj
