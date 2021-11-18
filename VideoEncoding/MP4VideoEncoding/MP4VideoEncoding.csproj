@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="DunamuCommon">
+      <HintPath>..\..\..\..\0.Project\CSharp_Common_Dll\DunamuCommon\DunamuCommon\bin\Release\net6.0-windows10.0.19041.0\DunamuCommon.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
